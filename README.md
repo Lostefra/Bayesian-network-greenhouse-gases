@@ -2,7 +2,7 @@
 
 #### by [Lorenzo Mario Amorosa](https://github.com/Lostefra)
 
-Here it is the [python notebook](https://github.com/Lostefra/Bayesian-network-greenhouse-gases/blob/master/main.ipynb).
+This [python notebook](https://github.com/Lostefra/Bayesian-network-greenhouse-gases/blob/master/main.ipynb) is also available in [official pgmpy tutorials repository](https://github.com/pgmpy/pgmpy_notebook).
 
 This project was developed as a part of the course *Fundamentals of Artificial Intelligence and Knowledge Representation (Mod. 3) - Alma Mater Studiorum Università di Bologna*.
 
